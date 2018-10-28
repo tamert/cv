@@ -121,10 +121,6 @@ As a part of a team with 5 members successfully built three web projects from sc
 - GitHub
 - Jira
 
-**Methodologies**
-- [x] Kanban board
-- [x] Agile
-- [ ] Kaizen in Software Development
 
 **Data centers**
 - AWS
