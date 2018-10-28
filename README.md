@@ -1,4 +1,4 @@
-![](assets/tamer-agaoglu.jpg)
+![](tamer-agaoglu.jpg)
 
 # Tamer Agaoglu
 #### Full Stack Developer
