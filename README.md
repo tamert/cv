@@ -59,18 +59,18 @@ As a part of a team with 5 members successfully built three web projects from sc
 - HTML
     - [x] Cookies
     - [x] sessionStorage, localStorage
-    - [ ] Web Components
-    - [ ] Shadow DOM
+    - [x] Web Components
+    - [x] Shadow DOM
 - CSS
     - [x] Flexbox
     - [x] Transition
     - [x] Media Queries
-    - [ ] CSS Grid
-    - [ ] Variables
+    - [x] CSS Grid
+    - [x] Variables
     - [x] CSS Modules
-    - [ ] BEM
+    - [x] BEM
     - [x] PostCSS
-    - [ ] SASS, LESS
+    - [x] SASS, LESS
 - JavaScript 
 
 
