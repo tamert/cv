@@ -83,6 +83,7 @@ As a part of a team with 5 members successfully built three web projects from sc
 - Laravel 5.1/5-7
 - CakePHP 2/3
 - Django
+- React & Redux
 - PYQT & QT
 - Express.js
 - jQuery
@@ -97,14 +98,14 @@ As a part of a team with 5 members successfully built three web projects from sc
 - [x] Fetch (CORS, Blob, Multipart)
 - [x] Notifications API
 - [ ] Intersection Observer
-- [ ] WebAuthn
+- [x] WebAuthn
 - [x] IndexedDB
 - [ ] WebAssembly
-- [ ] Web Workers, Service Workers, Shared Workers
+- [x] Web Workers, Service Workers, Shared Workers
 - [x] Payment Request API
-- [ ] Push API
-- [ ] Geolocation API
-- [ ] Network Information API
+- [x] Push API
+- [x] Geolocation API
+- [x] Network Information API
 
 **Databases**
 - [x] PortSQL
@@ -136,4 +137,4 @@ Linux Ubuntu, VS Code, Atom, WebPack, Babel, ESLint, Gulp, Postman, Geolocation,
 **Language**
 - Turkish (Native)
 - English (Elementary)
-- Japannese (Beginner)
+- Japannese (Beginner B1)
