@@ -1,4 +1,4 @@
-![](https://avatars3.githubusercontent.com/u/1997933?s=460&v=4)
+![](tamer.png)
 
 # Tamer Agaoglu
 #### Full Stack Developer
