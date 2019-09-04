@@ -5,11 +5,11 @@
 
 |||
 ---- | ----
-İstanbul, Turkey | [GitHub](https://github.com/tamert)
+İzmir/Bornova, Turkey | [GitHub](https://github.com/tamert)
 March 02, 1988 | [LinkedIn](https://www.linkedin.com/in/tamer-a-4325341b/)
-tameragaoglu@pekdijital.com | [Twitter](https://twitter.com/t_agaoglu)
+farerock@gmail.com | [Twitter](https://twitter.com/t_agaoglu)
   
-I am a web developer with 13+ years of experience and I love my job. I like to care about products I built. I am very passionate about current and future of web apps. New features and trends are unbelievable.
+I am a web developer with 10+ years of experience and I love my job. I like to care about products I built. I am very passionate about current and future of web apps. New features and trends are unbelievable.
 
 My interest :heart_eyes:
 
@@ -26,7 +26,14 @@ My interest :heart_eyes:
 
 ### Full Stack Developer
 
+---
 
+### Full Stack Developer
+
+AC BILISIM | 2017 - 2018
+--- | ---
+
+---
 
 ---
 
