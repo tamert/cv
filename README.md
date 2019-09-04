@@ -28,16 +28,24 @@ My interest :heart_eyes:
 
 ---
 
+DUYURUBU | 2018 - 2019
+--- | ---
+Screen Manage System - ReactJS and Laravel Api 
+
+---
+
+
 ### Full Stack Developer
 
 AC BILISIM | 2017 - 2018
 --- | ---
 
----
+
+Usally, web apps and Raspberry Pi projects
 
 ---
 
-### Full Stack Developer
+### Backend Developer
 
 WEBOLIZMA | 2009 - 2016
 --- | ---
@@ -84,11 +92,9 @@ As a part of a team with 5 members successfully built three web projects from sc
 **Back End Languages**
 - PHP
 - Python
-- Go
 
 **Frameworks**
-- Laravel 5.1/5-7
-- CakePHP 2/3
+- Laravel
 - Django
 - React & Redux
 - PYQT & QT
