@@ -1,5 +1,3 @@
-![](tamer.png)
-
 # Tamer Agaoglu
 #### Full Stack Developer
 
@@ -9,7 +7,8 @@
 March 02, 1988 | [LinkedIn](https://www.linkedin.com/in/tamer-a-4325341b/)
 farerock@gmail.com | [Twitter](https://twitter.com/t_agaoglu)
   
-I am a web developer with 10+ years of experience and I love my job. I like to care about products I built. I am very passionate about current and future of web apps. New features and trends are unbelievable.
+Have 10+ year experience in IT industry.
+I am responsible for writing server-side web application logic. I usually develop back-end components, connect the application with the other web services, and support the front-end developers by integrating their work with the Python or PHP application. Have worked with PHP (Symfony), Python (Django). I like learning and discovering new things and areas. My hobbies are travelling, reading, ham radio and hiking.
 
 My interest :heart_eyes:
 
@@ -22,28 +21,27 @@ My interest :heart_eyes:
 - IoT
 - Automation
 
-## :large_orange_diamond: Experience
-
-### Full Stack Developer
-
+### Back End Developer
 ---
-
-DUYURUBU | 2018 - 2019
+90PIXEL | 2019 - 2020
 --- | ---
 
-
-Screen Manage System - ReactJS and Laravel Api 
+Symfony
 
 ---
 
-
 ### Full Stack Developer
+PACIFIC SHIPPING | 2018 - 2020
+--- | ---
+
+ ReactJS and Django
+
+---
 
 AC BILISIM | 2017 - 2018
 --- | ---
 
-
-Usally, web apps and Raspberry Pi projects
+Usally, web apps and Raspberry Pi projects (Django, Laravel, ReactJS)
 
 ---
 
@@ -52,8 +50,7 @@ Usally, web apps and Raspberry Pi projects
 WEBOLIZMA | 2009 - 2016
 --- | ---
 
-With my own, I created multisite eCommerce CMS from scratch. The platform consists of the core of shop, dashboard and REST API.
-
+With my own, I created multisite eCommerce CMS from scratch. The platform consists of the core of shop, dashboard and REST API.  (Yii Framework)
 
 ---
 
@@ -67,89 +64,94 @@ As a part of a team with 5 members successfully built three web projects from sc
 ---
 
 
-## :large_orange_diamond: Skills
-
-- [x] *- I already know it*
-- [ ] *- I want to learn it*
 
 **Front End Languages**
 - HTML
-    - [x] Cookies
-    - [x] sessionStorage, localStorage
-    - [x] Web Components
-    - [x] Shadow DOM
+    - Cookies
+    - sessionStorage, localStorage
+    - Web Components
+    - Shadow DOM
 - CSS
-    - [x] Flexbox
-    - [x] Transition
-    - [x] Media Queries
-    - [x] CSS Grid
-    - [x] Variables
-    - [x] CSS Modules
-    - [x] BEM
-    - [x] PostCSS
-    - [x] SASS, LESS
-- JavaScript 
-
+    - Flexbox
+    - Transition
+    - Media Queries
+    - CSS Grid
+    - Variables
+    - CSS Modules
+    - SASS, LESS
+- JavaScript
 
 **Back End Languages**
 - PHP
 - Python
 
 **Frameworks**
-- Laravel
-- Django
-- React & Redux
+- Django + Django Rest Framework + Celery
+- Symfony + Api Platform + EasyAdmin 3.X
+- Laravel + Nova
+- ReactJS + Redux + NextJS
 - PYQT & QT
-- Express.js
 - jQuery
-- Backbone
-- Ember
 - Boostrap 3-4
-- Pure
 
 **Web API**
-- [x] Server Side Evens
-- [x] WebSockets
-- [x] Fetch (CORS, Blob, Multipart)
-- [x] Notifications API
-- [ ] Intersection Observer
-- [x] WebAuthn
-- [x] IndexedDB
-- [ ] WebAssembly
-- [x] Web Workers, Service Workers, Shared Workers
-- [x] Payment Request API
-- [x] Push API
-- [x] Geolocation API
-- [x] Network Information API
+- Server Side Evens
+- WebSockets
+- Fetch (CORS, Blob, Multipart)
+- Notifications API
+- WebAuthn
+- Web Workers, Service Workers, Shared Workers
+- Payment Request API
+- Push API
+- Geolocation API
+- Network Information API
 
 **Databases**
-- [x] PortSQL
-- [x] MySQL
-- [x] MongoDB
-- [x] WebSQL
-- [x] IndexedDB
+- PostgreSQL
+- MySQL
+- MongoDB
+- WebSQL
+- IndexedDB
 
 **Caching**
-- [x] Redis
-- [x] Memcache
+- Redis
+- Memcache
+- RabitMQ
 
 **Task & Project Management**
 - GitHub
 - Jira
-
+- ClickUp
 
 **Data centers**
 - AWS
 - DigitalOcean
-- OVH
-- Hetzner
 
 **Protocols**
 
 **Other**
-Linux Ubuntu, VS Code, Atom, WebPack, Babel, ESLint, Gulp, Postman, Geolocation, Bash scripts, JWT, Socket.io, Lodash, Let's encrypt, Nmap, CloudFlare, DNS Made Easy, Docker (Swarm, Machine, Compose).
+Vim, Linux Ubuntu, VS Code, Atom, WebPack, Babel, ESLint, Gulp, Postman, Geolocation, Bash scripts, JWT, Socket.io, Lodash, Let's encrypt, Nmap, CloudFlare, DNS Made Easy, Docker (Swarm, Machine, Compose).
+
+
+**Projects**
+2020 Corpeo Private Video Portal - PHP[Symfony/RestApi]
+2020 Novastor Partner Portal - PHP[Symfony/RestApi]
+2020 Rideo Car Rental - PHP[Symfony/RestApi]
+2020 Kodilan Python[Django/RestApi]
+2020 ilanKutusu Python[Django/RestApi] via RabitMq JS[ReactJS]
+2019 DuyuruBu Manage Device System - PHP[Laravel/RestApi] Python[Queue] via RabitMq JS[ReactJS]
+2019 TA2OJY Server-side APRS Tracker - Python
+2018 FollowerStar Google Chrome Extension - Javascript
+2018 b2b.renatcarp.com - B2B Platform - PHP, Doctorine
+2018 Casefixer Google Chrome Extension - Javascript
+2018 Instagram Map Finder - Social Network Helper - Python
+2018 112 Turkish Ambulance Control System - Python and C++
+2017 bulbakalimbul.com - Classified Platform - PHP
+2017 Raspberry Pi used Endoscopy Record Software - Python
+2016 iyiusta.com - Classified Platform - PHP Laravel
+2015 vucutgelistirme.tv - Portal - PHP CakePHP
+2010 akkunpp.com - Portal - PHP Yii Framework
 
 **Language**
 - Turkish (Native)
-- English (Elementary)
-- Japannese (Beginner B1)
+- English (Beginner B1)
