@@ -191,4 +191,4 @@ Year|Project|
 
 **Language**
 - Turkish (Native)
-- English (Elementary B1)
+- English (Elementary A2)
