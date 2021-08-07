@@ -1,67 +1,100 @@
 # Tamer Agaoglu
-#### Full Stack Developer
+### Backend Developer
 
-|||
+İzmir/Bornova Turkey | [GitHub](https://github.com/tamert)|
 ---- | ----
-İzmir/Bornova, Turkey | [GitHub](https://github.com/tamert)
 March 02, 1988 | [LinkedIn](https://www.linkedin.com/in/tamer-a-4325341b/)
 farerock@gmail.com | [Twitter](https://twitter.com/t_agaoglu)
   
-Have 10+ year experience in IT industry.
-I am responsible for writing server-side web application logic. I usually develop back-end components, connect the application with the other web services, and support the front-end developers by integrating their work with the Python or PHP application. Have worked with PHP (Symfony), Python (Django). I like learning and discovering new things and areas. My hobbies are travelling, reading, ham radio and hiking.
+I'm 33 years old. Maried and Have two sons. I am working 8 hours per day. I'm ready to relocation at nearest time and I like short business trips (about 1 week). I practice creative approach all the time in work and live. I think what most important thing in developement is understanding of problem (creating problem) and thinking about build: ideal case is solve the task without any line of code.
+
+I like learning and discovering new things and areas. My hobbies are travelling, reading, ham radio and hiking.
+
+### Experience
+
+I'm Team Lead of Backend Developer, PHP Laravel/Symfony — 6 years, Python Django 3 years, Node NestJS 4 mouth in web-dev more than 14 years.
+I am responsible for writing server-side web application logic. I usually develop back-end components, connect the application with the other web services, and support the front-end developers by integrating their work with the Python or PHP application. Have worked with PHP (Symfony), Python (Django). 
 
 My interest :heart_eyes:
 
-- Web apps (SPA, PWA)
-- Web services (API)
-- Web security
-- Web performance
+- GraphQL
+- Microservices
 - Scale web apps
 - Real-time web apps
 - IoT
 - Automation
 
-### Back End Developer
----
-90PIXEL | 2019 - 2020
---- | ---
 
-Symfony
+### Backend Team Lead
+```
+90Pixel
 
----
+Nov 2020 – Present
 
-### Full Stack Developer
-PACIFIC SHIPPING | 2018 - 2020
---- | ---
+1 year
 
- ReactJS and Django
-
----
-
-AC BILISIM | 2017 - 2018
---- | ---
-
-Usally, web apps and Raspberry Pi projects (Django, Laravel, ReactJS)
-
----
+İzmir, Türkiye
+- Symfony
+- NestJS
+```
 
 ### Backend Developer
+```
+Aplazame
 
-WEBOLIZMA | 2009 - 2016
---- | ---
+Mar 2019 – Agu 2020
 
-With my own, I created multisite eCommerce CMS from scratch. The platform consists of the core of shop, dashboard and REST API.  (Yii Framework)
+1 year
 
----
+Remote
+- Flask, Django
+- Laravel
+```
 
-### Junior Full Stack Developer
+### Full-Stack Developer
+```
+PekDijital
 
-O3 BİLİŞİM | 2005 - 2008
---- | ---
+Sep 2018 – Mar 2018
+
+
+Bartin, Turkey
+- Laravel
+- ReactJS + Redux
+```
+
+### Back-end Developer
+```
+AC Bilişim
+
+Dec 2014 – Sep 2018
+
+4 year
+
+Ankara, Turkey
+
+- Flask, Django
+- PYQT
+- Raspberry Pi
+```
+
+
+### Web Application Developer
+```
+Webolizma
+
+Dec 2009 – Mar 2014
+
+4 year
+
+Ankara, Turkey
+
+- php/mysql development
+- extending yii framework
 
 As a part of a team with 5 members successfully built three web projects from scratch with  PHP, JS, MYSQL.
 
----
+```
 
 
 
@@ -134,24 +167,28 @@ Vim, Linux Ubuntu, VS Code, Atom, WebPack, Babel, ESLint, Gulp, Postman, Geoloca
 
 
 **Projects**
-2020 Corpeo Private Video Portal - PHP[Symfony/RestApi]
-2020 Novastor Partner Portal - PHP[Symfony/RestApi]
-2020 Rideo Car Rental - PHP[Symfony/RestApi]
-2020 Kodilan Python[Django/RestApi]
-2020 ilanKutusu Python[Django/RestApi] via RabitMq JS[ReactJS]
-2019 DuyuruBu Manage Device System - PHP[Laravel/RestApi] Python[Queue] via RabitMq JS[ReactJS]
-2019 TA2OJY Server-side APRS Tracker - Python
-2018 FollowerStar Google Chrome Extension - Javascript
-2018 b2b.renatcarp.com - B2B Platform - PHP, Doctorine
-2018 Casefixer Google Chrome Extension - Javascript
-2018 Instagram Map Finder - Social Network Helper - Python
-2018 112 Turkish Ambulance Control System - Python and C++
-2017 bulbakalimbul.com - Classified Platform - PHP
-2017 Raspberry Pi used Endoscopy Record Software - Python
-2016 iyiusta.com - Classified Platform - PHP Laravel
-2015 vucutgelistirme.tv - Portal - PHP CakePHP
-2010 akkunpp.com - Portal - PHP Yii Framework
+
+Year|Project|
+---- | ---- 
+2021 | TUA Turkish Space Agency	- PHP[Symfony/RestApi]
+2020 | Corpeo Private Video Portal - PHP[Symfony/RestApi]
+2020 | Novastor	Partner Portal - PHP[Symfony/RestApi]
+2020 | Rideo Car Rental - PHP[Symfony/RestApi]
+2020 | Kodilan - Python[Django/RestApi]
+2020 | IlanKutusu - Python[Django/RestApi] via RabitMq JS[ReactJS]
+2019 | DuyuruBu	Manage Device System - PHP[Laravel/RestApi] Python[Queue] via RabitMq JS[ReactJS]
+2019 | TA2OJY Server-side APRS Tracker - Python
+2018 | FollowerStar	Google Chrome Extension - Javascript
+2018 | b2b.renatcarp.com B2B Platform - PHP, Doctorine
+2018 | Casefixer Google Chrome Extension - Javascript
+2018 | Instagram Map Finder - Social Network Helper	Python
+2018 | 112 Turkish Ambulance Control System - Python and C++
+2017 | bulbakatrmbul.com Classified Platform - PHP
+2017 | Raspberry Pi used Endoscopy Record Software - Python OpenCV PyQT 4
+2016 | iyiusta.com Classified Platform - PHP Laravel
+2015 | vucutgetrstirme.tv	Portal - PHP CakePHP
+2010 | akkunpp.com	Portal - PHP Yii Framework
 
 **Language**
 - Turkish (Native)
-- English (Beginner B1)
+- English (Elementary B1)
